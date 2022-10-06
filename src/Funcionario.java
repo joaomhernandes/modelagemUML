@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Funcionario implements ModeloCrud{
     private int id;
     private String nome;
